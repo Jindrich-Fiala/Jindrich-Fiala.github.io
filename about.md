@@ -3,6 +3,6 @@ layout: about
 title: About
 ---
 
-## About
+## Welcome to the repository
 
-Hi, nice to meet you.
+This page was created to store software and text.
